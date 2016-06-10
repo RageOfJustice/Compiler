@@ -1,0 +1,19 @@
+int ass=10;
+// No pain noo gain
+int getSome(int a, string b){
+    double dob = 10.9;
+    return a*10;
+}
+/* multi
+comment
+*/
+logic isEmpty(){
+    cycle(i=1:5:2){
+        double r = 0;
+    }
+    int r=0;
+    return false;
+}
+/* multi
+comment
+*/
